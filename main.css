@@ -2,7 +2,6 @@ img{
     width: 120px;
 }
 
-
 h1{
     color: red;
 }
@@ -10,8 +9,7 @@ h2{
  background-color: rgb(26, 156, 26);  
  color: white;   
 }
-.h2-1{
-       
+.h2-1{       
     padding: 50px; 
 }
 .text-1{
